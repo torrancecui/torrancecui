@@ -1,4 +1,4 @@
-👋 hello welcome to my github 👋
+hello welcome to my github :D
 
 <!---
 torrancecui/torrancecui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
