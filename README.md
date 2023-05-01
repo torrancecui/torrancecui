@@ -15,7 +15,8 @@
 ![Heroku](https://img.shields.io/badge/%E2%86%91-Heroku-7056bf.svg)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) -->
-
+<!-- 
 <a href="https://github.com/chanychi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=torrancecui&show_icons=true&count_private=true&theme=dracula" />
 </a>
+ -->
