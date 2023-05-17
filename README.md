@@ -1,6 +1,6 @@
 <h3 align="center">hi, welcome to my github!</h3>
 
-<p align="center"><b><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"  href="https://linkedin.com/in/torrance-c"/></b></p>
+<p align="center"><a href="https://linkedin.com/in/torrance-c"/><b><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a></b></p>
 <!-- ### front-end
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
