@@ -1,4 +1,4 @@
-<h3 align="center">hi, welcome to my github!</h3>
+<h3 align="center">hi welcome to my github</h3>
 
 <p align="center"><a href="https://linkedin.com/in/torrance-c"/><b><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a></b></p>
 <!-- ### front-end
